@@ -33,3 +33,8 @@ const pi  = 3.14; // cant update
 * bigint 
 ### and a complex data type
 * Object
+
+### Undefined:
+* a variable which is not initialized with any value
+### Null
+* there is an absence of value
